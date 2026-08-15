@@ -1,5 +1,51 @@
 EXTM3U
 
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/PjJRuMQ.png",Al-Ittihad FC x Al Kholood
+https://ww4.embedtv.lat/bandsports
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/A0ihOEU.png",Al-Nassr x Al-Fateh
+https://ww4.embedtv.lat/bandsp
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/v6SKxls.png",Criciúma x Goiás
+https://ww4.embedtv.lat/espn
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/4tz07bG.png",Sevilla x Rayo Vallecano
+https://ww4.embedtv.lat/pt_eleven1
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/DxBpnzm.png",Rio Ave x FC Porto
+https://ww4.embedtv.lat/pt_sportv1
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/iC9Uc04.png",Fluminense x Palmeiras
+https://ww4.embedtv.lat/premiere
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/w6sWOcL.png",Athletico PR x RB Bragantino
+https://ww4.embedtv.lat/premiere
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/9fbz4T6.png",Juventude x Fortaleza
+https://ww4.embedtv.lat/xsports
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/YUyZJfm.png",São Paulo x Coritiba
+https://ww4.embedtv.lat/sportv
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/E6bZDJ1.png",Platense x Boca Juniors
+https://ww4.embedtv.lat/espn
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/Xvn2jft.png",Chapecoense x Bahia
+https://ww4.embedtv.lat/premiere
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/JjEyj4G.png",Nacional x Estoril
+https://ww4.embedtv.lat/pt_sportv1
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/ApBTVgI.png",Racing Santander x Villarreal
+https://ww4.embedtv.lat/pt_eleven1
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/mFfwI5e.png",Burnley x West Ham
+https://ww4.embedtv.lat/espn3
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/ikH1V8r.png",Espanyol x Levante
+https://ww4.embedtv.lat/pt_eleven1
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/073A8Ul.png",Arouca x Moreirense
+https://ww4.embedtv.lat/pt_sportv2
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/fIQkp0j.png",Atlético-MG x Grêmio
+https://ww4.embedtv.lat/premiere
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/lLqUDzt.png",Vasco x Santos
+https://ww4.embedtv.lat/globorj
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/0f2Fs8R.png",SC Braga x GIL Vicente
+https://ww4.embedtv.lat/pt_sportv1
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/nhO5Lph.png",Famalicão x Maritimo
+https://ww4.embedtv.lat/pt_sportv2
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/SlhFPAV.png",Vitória x Botafogo
+https://ww4.embedtv.lat/premiere
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/BqIbjd3.png",Mirassol x Flamengo
+https://ww4.embedtv.lat/recordsp
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/QRwi9dd.png",Corinthians x Cruzeiro
+https://ww4.embedtv.lat/primevideo
 #EXTINF:-1 group-title="TV" tvg-logo="",Nature Time Brasil
 https://amg01576-amg01576c12-plex-us-11251.playouts.now.amagi.tv/1080p-cc-por/index.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="",Tv Clássicos
