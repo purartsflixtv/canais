@@ -1,0 +1,65 @@
+EXTM3U
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/sbt.png",SBT RJ
+https://ww4.embedtv.lat/sbtrj
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/discoveryscience.png",Discovery Science
+https://ww4.embedtv.lat/discoveryscience
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/mtv.png",MTV
+https://ww4.embedtv.lat/mtv
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/telecinetouch.png",Telecine Touch
+https://ww4.embedtv.lat/telecinetouch
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/warnerchannel.png",Warnerchannel
+https://ww4.embedtv.lat/warnerchannel
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/universaltv.png",Universal
+https://ww4.embedtv.lat/universaltv
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/bandnews.png",Band News
+https://ww4.embedtv.lat/bandnews
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/bandsports.png",Band Sports
+https://ww4.embedtv.lat/bandsports
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/globonews.png",Globo News
+https://ww4.embedtv.lat/globonews
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/cultura.png",Cultura
+https://ww4.embedtv.lat/cultura
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/globorj.png",Globo RJ
+https://ww4.embedtv.lat/globorj
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/record.png",Record SP
+https://ww4.embedtv.lat/recordsp
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/bandsports.png",Band Sports
+https://ww4.embedtv.lat/bandsports
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/cazetv.png",CazeTV
+https://ww4.embedtv.lat/caze1
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/cazetv.png",CazeTV 2
+https://ww4.embedtv.lat/caze2
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/espn.png",ESPN
+https://ww4.embedtv.lat/espn
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/espn2.png",ESPN 2
+https://ww4.embedtv.lat/espn2
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/espn3.png",ESPN 3
+https://ww4.embedtv.lat/espn3
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/espn4.png",ESPN 4
+https://ww4.embedtv.lat/espn4
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere 4
+https://ww4.embedtv.lat/premiere4
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere 5
+https://ww4.embedtv.lat/premiere5
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/premiere.png",Premiere 6
+https://ww4.embedtv.lat/premiere6
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/cinemax.png",Cinemax
+https://ww4.embedtv.lat/cinemax
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/megapix.png",Megapix
+https://ww4.embedtv.lat/megapix
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/tnt.png",TNT
+https://ww4.embedtv.lat/tnt
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/cartoonnetwork.png",Cartoon Network
+https://ww4.embedtv.lat/cartoonnetwork
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/discoverykids.png",Discovery Kids
+https://ww4.embedtv.lat/discoverykids
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/animalplanet.png",Animal Planet
+https://ww4.embedtv.lat/animalplanet
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/discoverychannel.png",Discovery Channel
+https://ww4.embedtv.lat/discoverychannel
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/ae.png",AE
+https://ww4.embedtv.lat/ae
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/hbo.png",HBO
+https://ww4.embedtv.lat/hbo
+#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/off.png",OFF
+https://ww4.embedtv.lat/off
