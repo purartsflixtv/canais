@@ -1,7 +1,39 @@
 EXTM3U
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK93872eoQJbEMpX3taxj-NPHRPfnhaF2gT2Lrgngclw&s=10",GLOBO BAHIA
-https://embed.bugoumods.com/player.php?type=live_streams&id=19139811&ext=mp4&name=GLOBO%20BAHIA%20%20FHD%20(SALVADOR)%C2%B2&img=http%3A%2F%2Fp2vip.xyz%3A80%2Fimages%2F5f1d061ef9f6a83041604264d631bcaa.png
+#EXTINF:-1 group-title="TV" tvg-logo="",Nature Time Brasil
+https://amg01576-amg01576c12-plex-us-11251.playouts.now.amagi.tv/1080p-cc-por/index.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="",Tv Clássicos
+https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="",TV ONE
+https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="",Tv J.SID
+https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="",Tv Novo Milênio
+https://5a57bda70564a.streamlock.net/mileniotv/mileniotv.sdp/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="",Tv Caravelas
+https://stmv.jnbhost.com.br/tvalagoinha/tvalagoinha/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="",TV Ouro Negro
+https://stmv1.srvstm.com/diegodemenezes3156/diegodemenezes3156/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="",Tv InforBahia
+https://stmv4.voxtvhd.com.br/tvinforbahia/tvinforbahia/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="",SDS de Valença
+https://video05.logicahost.com.br/rtvsdsvalenca/rtvsdsvalenca/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="",TVC
+https://stmv1.voxtvhd.com.br/canaltvc/canaltvc/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="",TV Diário Macapá
+https://video02.logicahost.com.br/tvdiario/tvdiario/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="",Rede Sempre TV
+https://stmv2.samcast.com.br/redesempretv1616/redesempretv1616/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="",Hip-hop Vai Além Na Tv
+https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="",Tv Channel Network
+https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="",Kpop TV Play
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="",TV Sonata
+https://video04.logicahost.com.br/isonata/isonata/playlist.m3u8
+#EXTINF:-1 group-title="TV" tvg-logo="",Tv Max 90
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15538/playlist/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/sbt.png",SBT RJ
 https://ww4.embedtv.lat/sbtrj
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/discoveryscience.png",Discovery Science
