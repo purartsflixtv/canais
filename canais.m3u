@@ -1,27 +1,25 @@
 EXTM3U
 #EXTINF:-1 group-title="TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/806fe527207bb347c23673e22f5826b7.webp",Hip-hop Vai Além
 https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/PjJRuMQ.png",Al-Ittihad FC x Al Kholood
-https://ww4.embedtv.lat/bandsports
+#EXTINF:-1 group-title="TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/58ef6f711bd4731bc5f0095f223b0fe0.webp",TV Aratu
+https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/chunklist.m3u8
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/A0ihOEU.png",Al-Nassr x Al-Fateh
 https://ww4.embedtv.lat/bandsp
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/v6SKxls.png",Criciúma x Goiás
 https://ww4.embedtv.lat/espn
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/4tz07bG.png",Sevilla x Rayo Vallecano
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/4tz07bG.png",Eleven1
 https://ww4.embedtv.lat/pt_eleven1
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/DxBpnzm.png",Rio Ave x FC Porto
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/DxBpnzm.png",Sportv1
 https://ww4.embedtv.lat/pt_sportv1
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/iC9Uc04.png",Fluminense x Palmeiras
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/iC9Uc04.png",Premiere
 https://ww4.embedtv.lat/premiere
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/w6sWOcL.png",Athletico PR x RB Bragantino
-https://ww4.embedtv.lat/premiere
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/9fbz4T6.png",Juventude x Fortaleza
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/9fbz4T6.png",XSports 
 https://ww4.embedtv.lat/xsports
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/YUyZJfm.png",São Paulo x Coritiba
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/YUyZJfm.png", SporTV 
 https://ww4.embedtv.lat/sportv
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/E6bZDJ1.png",Platense x Boca Juniors
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/E6bZDJ1.png", ESPN 
 https://ww4.embedtv.lat/espn
-#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/Xvn2jft.png",Chapecoense x Bahia
+#EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/Xvn2jft.png", Premiere 
 https://ww4.embedtv.lat/premiere
 #EXTINF:-1 group-title="Esportes" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://imgur.com/JjEyj4G.png",Nacional x Estoril
 https://ww4.embedtv.lat/pt_sportv1
