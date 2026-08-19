@@ -1,4 +1,33 @@
-EXTM3U
+#EXTM3U
+#EXTINF:-1 group-title="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWPnAaMmbxmUGFGcT6srg6VB2ukYfKIZIFzowMbTSFZw&s=10", Globo/AL
+https://v3.rdse.site/globoal
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWPnAaMmbxmUGFGcT6srg6VB2ukYfKIZIFzowMbTSFZw&s=10", Globo/AM
+https://v3.rdse.site/globoam
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWPnAaMmbxmUGFGcT6srg6VB2ukYfKIZIFzowMbTSFZw&s=10", Globo/DF
+https://v3.rdse.site/globodf
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWPnAaMmbxmUGFGcT6srg6VB2ukYfKIZIFzowMbTSFZw&s=10", Globo/GO
+https://v3.rdse.site/globogo
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWPnAaMmbxmUGFGcT6srg6VB2ukYfKIZIFzowMbTSFZw&s=10", Globo/MG
+https://v3.rdse.site/globomg
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWPnAaMmbxmUGFGcT6srg6VB2ukYfKIZIFzowMbTSFZw&s=10", Globo/RJ
+https://v3.rdse.site/globorj
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWPnAaMmbxmUGFGcT6srg6VB2ukYfKIZIFzowMbTSFZw&s=10", Globo/RS
+https://v3.rdse.site/globors
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWPnAaMmbxmUGFGcT6srg6VB2ukYfKIZIFzowMbTSFZw&s=10", Globo/SP
+https://v3.rdse.site/globosp
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://reidosembeds.online/img/globoplaynovelas.png", Globo Play Novelas
+https://v3.rdse.site/globoplaynovelas
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV6H_zk9REsueRqjgphephX_t7xZ_ArShVMBbEFmWw9g&s=10", TV Bahia
+https://v3.rdse.site/globoba
 #EXTINF:-1 group-title="TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/806fe527207bb347c23673e22f5826b7.webp",Hip-hop Vai Além
 https://stmv4.voxtvhd.com.br/carlosdavi6787/carlosdavi6787/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/58ef6f711bd4731bc5f0095f223b0fe0.webp",TV Aratu
