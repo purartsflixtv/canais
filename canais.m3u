@@ -122,8 +122,6 @@ https://ww4.embedtv.lat/warnerchannel
 https://ww4.embedtv.lat/universaltv
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/bandnews.png",Band News
 https://ww4.embedtv.lat/bandnews
-#EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/bandsports.png",Band Sports
-https://ww4.embedtv.lat/bandsports
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/globonews.png",Globo News
 https://ww4.embedtv.lat/globonews
 #EXTINF:-1 group-title="TV" tvg-logo="https://img.faz-o-eli.online/cultura.png",Cultura
