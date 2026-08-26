@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="TV" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://reidosembeds.online/img/bandsports.png", Band Sports
+https://v1.rdse.lat/bandsports
 #EXTINF:-1 group-title="TV" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://reidosembeds.online/img/sporttv3.png", SportTV3
 https://v1.rdse.lat/sporttv3
 #EXTINF:-1 group-title="TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWPnAaMmbxmUGFGcT6srg6VB2ukYfKIZIFzowMbTSFZw&s=10", Globo/AL
