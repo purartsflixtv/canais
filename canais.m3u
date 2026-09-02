@@ -1,4 +1,95 @@
 #EXTM3U
+#EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://i.imgur.com/di3XX5L.png", AzStarTV
+http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Baku_TV_%282018%29.png/640px-Baku_TV_%282018%29.png", Baku TV
+https://rtmp.baku.tv/live/bakutv_720p.m3u8
+
+#EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/M%C9%99d%C9%99niyy%C9%99t_TV_logo.png", Mədəniyyət TV
+https://str.yodacdn.net/medeniyyet/index.m3u8
+
+#EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://i.imgur.com/9JTMh3F.jpg", Timeline (UK)
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://i.imgur.com/deYohgq.jpg", TV Brusque (SC)
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://i.imgur.com/bnqpHAs.png", TV Metrópole
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://i.imgur.com/IK3F9Uq.png", Nova Era TV
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+
+#EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmrg3GgalgbnIayoo-06hReOc_l6uVHSinY0z2yeNEbw&s=10", TV Galo
+https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
+
+#EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQFai-CvwUAvcTOEaPLdMaxiGhReouDCiNkQQsYl2QiQ&s=10", TV Maceió
+https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc0So9NryqyItl3itPB2S6V-lBHiUu5Vo5ScGD3jj0xw&s=10", Futura
+https://tv.unisc.br/hls/test.m3u8
+
+#EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEm5acijq2kAPm2Lw3QSO1Xh5anlQedDK304quNG3ZFQ&s", TCM
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+
+#EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8Sz2BEOBnTsKDxdiWAQnDiO519s6RjLwq5jdcA2zGGQ&s=10", TV Universal
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfx0CylBnN60ep7p016hHyXrklh7uCmQr73G21eEzy6Q&s=10", TV Rit
+https://acesso.ecast.site:3648/live/ritlive.m3u8
+
+#EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtRahUlXrk5AGr3pGeAxVv_045PQ4Oz_Lv-P6I_vQTQQ&s=10", Gospel Cartoon
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEJ3eqR2htDAkBCJr3d61wIZm5Ui2XyIvu-vBXQx_dLA&s=10", Rede Super
+https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSS4iqASdjfow1Mjan3oR1cE-2ZbDbTFC8avzRY-gHxUQ&s=10", TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ5mh5HBsNHOGg4cVP_C5zmOeD0CPKYX0ckzQVkwT0dQ&s=10", TV Cultura (SC)
+http://streaming03.zas.media:1935/panorama/panorama/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT1MRpPgn9u2ALEsNET_LkIa1FbZOf9NpIl7UMvGMLAA&s=10", TVE (GO)
+http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVmNcgMe2hKvIBEq20Bpf3aHENCnn7mga2FLjGg8jv4A&s=10", TV Guarapari
+http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/live.m3u8
+
+#EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://imgur.com/2qWdToI.png", Sony One Shark Tank
+https://f9387554367349db8374885adb2d48cf.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-br_SharkTank/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://i.imgur.com/4lnSlOZ.png", Fonte TV
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+
+#EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe6NquRyazIJG1tse8CUY8oH980olEmfGyZ6DC1siG7g&s=10", Rede Mão Amiga
+http://streaming03.zas.media:1935/redemaoamiga/redemaoamiga/live.m3u8
+
+#EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwgProbb1suyqmLkSOi1jFSMDSTQKGRBZ0N6OMToLtHg&s=10", Novo Canal
+http://189.86.89.116/hls-live/livenc/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://imgur.com/3Wpaz9E.png.", Runtime Ação
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+
+#EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://imgur.com/TZ7LfjB.png", Runtime Comédia
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+
+#EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://imgur.com/pFtnILf.png", Runtime Família
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5589
+
+#EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://i.imgur.com/8UlO9MA.png", Caravana Play
+https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://imgur.com/U6ElKK3.png", Runtime Romance
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
+
+#EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://imgur.com/bzX7MO8.png", Cine Espanto
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4865
+
+#EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://imgur.com/KQt9WGA.png", Runtime Crime
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+
+#EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://i.imgur.com/9JTMh3F.jpg", Timeline (UK)
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://reidosembeds.online/img/bandsports.png", Band Sports
 https://v1.rdse.lat/bandsports
 #EXTINF:-1 group-title="TV" tvg-logo="https://d1muf25xaso8hp.cloudfront.net/https://reidosembeds.online/img/sporttv3.png", SportTV3
