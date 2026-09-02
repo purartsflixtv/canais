@@ -2,9 +2,6 @@
 #EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://i.imgur.com/di3XX5L.png", AzStarTV
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Baku_TV_%282018%29.png/640px-Baku_TV_%282018%29.png", Baku TV
-https://rtmp.baku.tv/live/bakutv_720p.m3u8
-
 #EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/M%C9%99d%C9%99niyy%C9%99t_TV_logo.png", Mədəniyyət TV
 https://str.yodacdn.net/medeniyyet/index.m3u8
 
