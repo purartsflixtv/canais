@@ -1,4 +1,3 @@
-Canais 
 #EXTM3U
 #EXTINF:-1 group-title="TV Ao Vivo" tvg-logo="https://i.imgur.com/di3XX5L.png", AzStarTV
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
